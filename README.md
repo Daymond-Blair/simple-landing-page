@@ -1,3 +1,3 @@
 # Simple Landing Page
 
-Brushing up on some HTML and CSS. 
+Brushing up on some HTML and CSS. Javascript next!
